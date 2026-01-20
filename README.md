@@ -1,2 +1,2 @@
-# ml_and_causal_inference
+# causal machine learning
 A repository for machine learning and causal inference class notes and codes.
